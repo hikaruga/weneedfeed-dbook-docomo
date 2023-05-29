@@ -1,4 +1,4 @@
-# weneedfeed-weneedfeed-dbook-docomo
+# weneedfeed-dbook-docomo
 
 [![](https://github.com/hikaruga/weneedfeed-dbook-docomo/workflows/publish/badge.svg)](https://github.com/hikaruga/weneedfeed-dbook-docomo/actions?query=workflow%3Apublish)
 
