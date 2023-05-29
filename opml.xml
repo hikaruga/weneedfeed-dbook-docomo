@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>cmoa.jp</title>
+    <title>dbook.docomo.jp</title>
   </head>
   <body>
-    <outline text="cmoa.jp" title="cmoa.jp">
+    <outline text="dbook.docomo.jp" title="dbook.docomo.jp">
       
-        <outline type="rss" attr="【電子版】CIEL" title="【電子版】CIEL" xmlUrl="https://hikaruga.github.io/weneedfeed-cmoa/feeds/109124.xml" htmlUrl="https://www.cmoa.jp/title/109124/"/>
-      
-        <outline type="rss" attr="ビーボーイゴールド BE BOY GOLD" title="ビーボーイゴールド BE BOY GOLD" xmlUrl="https://hikaruga.github.io/weneedfeed-cmoa/feeds/133477.xml" htmlUrl="https://www.cmoa.jp/title/133477/"/>
+        <outline type="rss" attr="【電子版】CIEL" title="【電子版】CIEL" xmlUrl="https://hikaruga.github.io/weneedfeed-dbook-docomo/feeds/990c31.xml" htmlUrl="https://dbook.docomo.ne.jp/search/?t=2&a=990c3184ec972747a0eb5a9ecb2747e8a9ec0ce2bebac1f8c9d0c741d1be8b49"/>
       
     </outline>
   </body>
